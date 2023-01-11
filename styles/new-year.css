@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*header styles */
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+}
+
+.banner-title {
+    Font size: 65px;
+    display: flex;
+    padding: 216px 845px;
+    color: #151414
+}
+
+.banner-descrptoin {
+    Font size: 16px;
+    font-weight: 400;
+    color: #444343;
+    text-align: :right;
+    margin-button: 24px
+}
+
+.banner-btn {
+    width: 160px;
+    height: 64px;
+    button: right
+}
+
+main {
+    max-width: 1124px;
+    margin: 0 auto;
+}
+
+/* main styles */
+.main {
+    padding: 132px 237px;
+    background-image: url('../images/person.png');
+    background-repeat: no-repeat;
+
+}
+
+
+.main-title {
+    text-align: top;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 322px 371px;
+    margin-top: 370px;
+    color: #151414
+}
+
+.main-descrption {
+    display: flex;
+    width: 416px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin: ;
+
+}
+li{
+    margin-right: 389px;
+}
+.plan {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+.logo1{
+    image;
+}
